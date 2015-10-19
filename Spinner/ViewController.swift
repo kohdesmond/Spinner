@@ -14,10 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        var spinner = VMGearLoadingView(showGearLoadingForView: self.view)
-        
-        var timer = NSTimer.scheduledTimerWithTimeInterval(8, target: self, selector: Selector("update"), userInfo: nil, repeats: false)
-        
+        VMGearLoadingView(showGearLoadingForView: self.view)
+        NSTimer.scheduledTimerWithTimeInterval(80, target: self, selector: Selector("update"), userInfo: nil, repeats: false)
     }
 
     override func didReceiveMemoryWarning() {

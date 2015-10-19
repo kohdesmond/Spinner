@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E8A81BAD2993D56FC093A04A2E2FA7BF2C5E891D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "617712354552D07E3EF796617FADF37662B790A5" : 0,
+    "E8A81BAD2993D56FC093A04A2E2FA7BF2C5E891D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "59C84534-0ABC-46F0-AE6C-1D0A7DF77642",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "617712354552D07E3EF796617FADF37662B790A5" : "",
+    "E8A81BAD2993D56FC093A04A2E2FA7BF2C5E891D" : "Spinner\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Spinner",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Spinner.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kohdesmond\/ta-ker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "617712354552D07E3EF796617FADF37662B790A5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kohdesmond\/Spinner.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E8A81BAD2993D56FC093A04A2E2FA7BF2C5E891D"
+    }
+  ]
+}

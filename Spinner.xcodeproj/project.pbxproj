@@ -15,22 +15,6 @@
 		5C8228351B1500D90021B3AC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228331B1500D90021B3AC /* LaunchScreen.xib */; };
 		5C8228411B1500D90021B3AC /* SpinnerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8228401B1500D90021B3AC /* SpinnerTests.swift */; };
 		5C82284D1B15013A0021B3AC /* GearLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C82284C1B15013A0021B3AC /* GearLoading.swift */; };
-		5C8228611B1521AC0021B3AC /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228511B1521AC0021B3AC /* background.png */; };
-		5C8228631B1521AC0021B3AC /* background@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228531B1521AC0021B3AC /* background@3x.png */; };
-		5C8228641B1521AC0021B3AC /* gears 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228541B1521AC0021B3AC /* gears 1.png */; };
-		5C8228651B1521AC0021B3AC /* gears 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228551B1521AC0021B3AC /* gears 1@2x.png */; };
-		5C8228661B1521AC0021B3AC /* gears 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228561B1521AC0021B3AC /* gears 1@3x.png */; };
-		5C8228671B1521AC0021B3AC /* gears 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228571B1521AC0021B3AC /* gears 2.png */; };
-		5C8228681B1521AC0021B3AC /* gears 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228581B1521AC0021B3AC /* gears 2@2x.png */; };
-		5C8228691B1521AC0021B3AC /* gears 2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228591B1521AC0021B3AC /* gears 2@3x.png */; };
-		5C82286A1B1521AC0021B3AC /* gears 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C82285A1B1521AC0021B3AC /* gears 3.png */; };
-		5C82286B1B1521AC0021B3AC /* gears 3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C82285B1B1521AC0021B3AC /* gears 3@2x.png */; };
-		5C82286C1B1521AC0021B3AC /* gears 3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C82285C1B1521AC0021B3AC /* gears 3@3x.png */; };
-		5C82286D1B1521AC0021B3AC /* imgDemo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C82285D1B1521AC0021B3AC /* imgDemo.png */; };
-		5C82286E1B1521AC0021B3AC /* Layer 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C82285E1B1521AC0021B3AC /* Layer 1.png */; };
-		5C82286F1B1521AC0021B3AC /* Layer 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C82285F1B1521AC0021B3AC /* Layer 1@2x.png */; };
-		5C8228701B1521AC0021B3AC /* Layer 1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228601B1521AC0021B3AC /* Layer 1@3x.png */; };
-		5C8228711B1521B50021B3AC /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C8228731B1521B50021B3AC /* background@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,22 +40,6 @@
 		5C82283F1B1500D90021B3AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C8228401B1500D90021B3AC /* SpinnerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerTests.swift; sourceTree = "<group>"; };
 		5C82284C1B15013A0021B3AC /* GearLoading.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GearLoading.swift; sourceTree = "<group>"; };
-		5C8228511B1521AC0021B3AC /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
-		5C8228531B1521AC0021B3AC /* background@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background@3x.png"; sourceTree = "<group>"; };
-		5C8228541B1521AC0021B3AC /* gears 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 1.png"; sourceTree = "<group>"; };
-		5C8228551B1521AC0021B3AC /* gears 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 1@2x.png"; sourceTree = "<group>"; };
-		5C8228561B1521AC0021B3AC /* gears 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 1@3x.png"; sourceTree = "<group>"; };
-		5C8228571B1521AC0021B3AC /* gears 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 2.png"; sourceTree = "<group>"; };
-		5C8228581B1521AC0021B3AC /* gears 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 2@2x.png"; sourceTree = "<group>"; };
-		5C8228591B1521AC0021B3AC /* gears 2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 2@3x.png"; sourceTree = "<group>"; };
-		5C82285A1B1521AC0021B3AC /* gears 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 3.png"; sourceTree = "<group>"; };
-		5C82285B1B1521AC0021B3AC /* gears 3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 3@2x.png"; sourceTree = "<group>"; };
-		5C82285C1B1521AC0021B3AC /* gears 3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gears 3@3x.png"; sourceTree = "<group>"; };
-		5C82285D1B1521AC0021B3AC /* imgDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imgDemo.png; sourceTree = "<group>"; };
-		5C82285E1B1521AC0021B3AC /* Layer 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Layer 1.png"; sourceTree = "<group>"; };
-		5C82285F1B1521AC0021B3AC /* Layer 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Layer 1@2x.png"; sourceTree = "<group>"; };
-		5C8228601B1521AC0021B3AC /* Layer 1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Layer 1@3x.png"; sourceTree = "<group>"; };
-		5C8228721B1521B50021B3AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = "Base.lproj/background@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +83,6 @@
 			children = (
 				5C8228271B1500D90021B3AC /* AppDelegate.swift */,
 				5C82282C1B1500D90021B3AC /* ViewController.swift */,
-				5C8228501B15219F0021B3AC /* Images */,
 				5C82282E1B1500D90021B3AC /* Main.storyboard */,
 				5C8228311B1500D90021B3AC /* Images.xcassets */,
 				5C8228331B1500D90021B3AC /* LaunchScreen.xib */,
@@ -149,29 +116,6 @@
 				5C82283F1B1500D90021B3AC /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		5C8228501B15219F0021B3AC /* Images */ = {
-			isa = PBXGroup;
-			children = (
-				5C8228511B1521AC0021B3AC /* background.png */,
-				5C8228731B1521B50021B3AC /* background@2x.png */,
-				5C8228531B1521AC0021B3AC /* background@3x.png */,
-				5C8228541B1521AC0021B3AC /* gears 1.png */,
-				5C8228551B1521AC0021B3AC /* gears 1@2x.png */,
-				5C8228561B1521AC0021B3AC /* gears 1@3x.png */,
-				5C8228571B1521AC0021B3AC /* gears 2.png */,
-				5C8228581B1521AC0021B3AC /* gears 2@2x.png */,
-				5C8228591B1521AC0021B3AC /* gears 2@3x.png */,
-				5C82285A1B1521AC0021B3AC /* gears 3.png */,
-				5C82285B1B1521AC0021B3AC /* gears 3@2x.png */,
-				5C82285C1B1521AC0021B3AC /* gears 3@3x.png */,
-				5C82285D1B1521AC0021B3AC /* imgDemo.png */,
-				5C82285E1B1521AC0021B3AC /* Layer 1.png */,
-				5C82285F1B1521AC0021B3AC /* Layer 1@2x.png */,
-				5C8228601B1521AC0021B3AC /* Layer 1@3x.png */,
-			);
-			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,7 +162,9 @@
 		5C82281A1B1500D90021B3AC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0630;
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Mauro Callegari";
 				TargetAttributes = {
 					5C8228211B1500D90021B3AC = {
@@ -254,24 +200,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C82286D1B1521AC0021B3AC /* imgDemo.png in Resources */,
-				5C82286F1B1521AC0021B3AC /* Layer 1@2x.png in Resources */,
-				5C8228641B1521AC0021B3AC /* gears 1.png in Resources */,
 				5C8228301B1500D90021B3AC /* Main.storyboard in Resources */,
-				5C8228631B1521AC0021B3AC /* background@3x.png in Resources */,
-				5C82286E1B1521AC0021B3AC /* Layer 1.png in Resources */,
-				5C8228611B1521AC0021B3AC /* background.png in Resources */,
-				5C82286C1B1521AC0021B3AC /* gears 3@3x.png in Resources */,
-				5C8228681B1521AC0021B3AC /* gears 2@2x.png in Resources */,
 				5C8228351B1500D90021B3AC /* LaunchScreen.xib in Resources */,
-				5C8228711B1521B50021B3AC /* background@2x.png in Resources */,
-				5C82286A1B1521AC0021B3AC /* gears 3.png in Resources */,
-				5C8228661B1521AC0021B3AC /* gears 1@3x.png in Resources */,
-				5C8228691B1521AC0021B3AC /* gears 2@3x.png in Resources */,
-				5C82286B1B1521AC0021B3AC /* gears 3@2x.png in Resources */,
-				5C8228651B1521AC0021B3AC /* gears 1@2x.png in Resources */,
-				5C8228701B1521AC0021B3AC /* Layer 1@3x.png in Resources */,
-				5C8228671B1521AC0021B3AC /* gears 2.png in Resources */,
 				5C8228321B1500D90021B3AC /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -332,14 +262,6 @@
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
-		5C8228731B1521B50021B3AC /* background@2x.png */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5C8228721B1521B50021B3AC /* Base */,
-			);
-			name = "background@2x.png";
-			sourceTree = "<group>";
-		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -364,6 +286,7 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -430,6 +353,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Spinner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "maxxa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -440,6 +364,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Spinner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "maxxa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -458,6 +383,7 @@
 				);
 				INFOPLIST_FILE = SpinnerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "maxxa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Spinner.app/Spinner";
 			};
@@ -473,6 +399,7 @@
 				);
 				INFOPLIST_FILE = SpinnerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "maxxa.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Spinner.app/Spinner";
 			};
@@ -497,6 +424,7 @@
 				5C8228461B1500D90021B3AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C8228471B1500D90021B3AC /* Build configuration list for PBXNativeTarget "SpinnerTests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +433,7 @@
 				5C8228491B1500D90021B3AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
